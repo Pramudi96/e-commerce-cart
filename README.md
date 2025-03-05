@@ -21,20 +21,20 @@ An interactive and user-friendly E-commerce Cart Application built using React.j
 
 ### 🔧 Installation & Setup
 
-1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/Pramudi96/e-commerce-cart.git
 cd ecommerce-cart
 ```
 
-2️⃣ ### Install dependencies
+### 2️⃣ Install dependencies
 
 ```bash
 npm install
 ```
 
-3️⃣ ### Start the development server
+### 3️⃣ Start the development server
 
 ```bash
 npm start
