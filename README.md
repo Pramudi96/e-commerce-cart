@@ -19,20 +19,6 @@ An interactive and user-friendly E-commerce Cart Application built using React.j
 - **API Handling**: Axios
 - **Styling**: Material-UI Components & Styled System
 
-## 📂 Project Structure
-
-📦 ecommerce-cart
-├── 📂 src
-│ ├── 📂 assets # Images & static files
-│ ├── 📂 components # Reusable UI components
-│ ├── 📂 context # Context API for Cart State Management
-│ ├── 📂 pages # Main pages (Home, Cart, Checkout)
-│ ├── 📄 App.js # Main App Component
-│ ├── 📄 index.js # Entry Point
-├── 📂 public # Static files
-├── 📄 package.json # Dependencies & scripts
-├── 📄 README.md # Documentation
-
 ### 🔧 Installation & Setup
 
 1️⃣ Clone the repository
