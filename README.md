@@ -19,7 +19,7 @@ An interactive and user-friendly E-commerce Cart Application built using React.j
 - **API Handling**: Axios
 - **Styling**: Material-UI Components & Styled System
 
-### 🔧 Installation & Setup
+## 🔧 Installation & Setup
 
 ### 1️⃣ Clone the repository
 
